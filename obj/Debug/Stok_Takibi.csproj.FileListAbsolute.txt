@@ -1,0 +1,16 @@
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\bin\Debug\Stok_Takibi.exe.config
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\bin\Debug\Stok_Takibi.exe
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\bin\Debug\Stok_Takibi.pdb
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.csprojAssemblyReference.cache
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmMüşteriEkle.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmSatis.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.Properties.Resources.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.csproj.GenerateResource.cache
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.exe
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.pdb
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmMüşteriListele.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmKategori.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmMarka.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmÜrünEkleme.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmÜrünListele.resources
+C:\Users\Genel Müdür\source\repos\Stok_Takibi\Stok_Takibi\obj\Debug\Stok_Takibi.frmSatışListele.resources
